@@ -1,0 +1,103 @@
+﻿@using AppLogic.DTOs
+@model AppLogic.DTOs.OrderDTO
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.mensaje
+    </div>
+}
+<h1>Create</h1>
+
+<h4>OrderDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+                <label asp-for="creationDate" class="control-label"></label>
+                <input asp-for="creationDate" class="form-control" />
+                <span asp-validation-for="creationDate" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label asp-for="deliveryDate" class="control-label"></label>
+                <input asp-for="deliveryDate" class="form-control" />
+                <span asp-validation-for="deliveryDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Seleccione el cliente :</label>
+                <select name="idClient" @* *asp-for="idClient" *@ class="formcontrol" asp-items="ViewBag.clients">
+                    <option value="" disabled>Elija el cliente:</option>
+                    @foreach (SelectListItem c in ViewBag.clients)
+                    {
+                        <option value="@c.Value">@c.Text</option>    
+                    }
+                </select>
+                <span asp-validation-for="idClient" class="text-danger"></span>
+            </div>
+            @* <div class="form-group">
+                <label asp-for="idClient" class="control-label"></label>
+                <input asp-for="idClient" class="form-control" />
+                <span asp-validation-for="idClient" class="text-danger"></span>
+            </div> *@
+            @* <div class="form-group">
+                <label for="idItem" class="control-label">Item: </label>
+                <input type="number" id="idItem" name="idItem" class="form-control"/>
+            </div> *@
+            <div>
+                Articulos:
+                @if (ViewBag.lines != null && ViewBag.lines.Count > 0)
+                {
+                    @foreach (LineDTO line in ViewBag.lines)
+                    {
+                        <p>@line.item.name</p>    
+                    }
+                }
+            </div> 
+           @*  <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="isExrpress" /> @Html.DisplayNameFor(model => model.isExrpress)
+                </label>
+            </div> *@
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+        <div>
+            <form asp-action="AddLine">
+                <div class="form-group">
+                    <label>Articulos :</label>
+                    <select name="idItem" @* *asp-for="idItem" *@ class="formcontrol" asp-items="ViewBag.items">
+                        <option value="" disabled>Elija el articulo :</option>
+                        @foreach (SelectListItem c in ViewBag.items)
+                        {
+                            <option value="@c.Value">@c.Text</option>
+                        }
+                    </select>
+                    <span @* asp-validation-for="idItem" *@ class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="amount" class="control-label">cantidad: </label>
+                    <input type="number" id="amount" name="amount" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Agregar Linea" class="btn-primary"></input>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

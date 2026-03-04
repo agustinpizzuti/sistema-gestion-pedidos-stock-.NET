@@ -1,0 +1,119 @@
+﻿@model IEnumerable<Client.Models.StockMovementModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+    <div class="alert alert-danger">
+        @ViewBag.message
+    </div>
+}
+
+<div>
+    <form method="post" action="StockMovement/Movements/">
+        <div class="form-group">
+            <label>Articulos :</label>
+            <select name="idItem" @* *asp-for="idItem" *@ class="formcontrol" asp-items="ViewBag.items">
+                <option value="" disabled>Elija el articulo :</option>
+                @foreach (SelectListItem c in ViewBag.items)
+                {
+                    <option value="@c.Value">@c.Text</option>
+                }
+            </select>
+            <span @* asp-validation-for="idItem" *@ class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Tipos de movimiento :</label>
+            <select name="type" @* *asp-for="idItem" *@ class="formcontrol" asp-items="ViewBag.movementType">
+                <option value="" disabled>Elija el tipo de movimiento :</option>
+                @foreach (SelectListItem c in ViewBag.movementType)
+                {
+                    <option value="@c.Value">@c.Text</option>
+                }
+            </select>
+            <span @* asp-validation-for="idItem" *@ class="text-danger"></span>
+        </div>
+        <input type="submit" />
+    </form>
+</div>
+
+<div>
+    <form method="post" action="Item/Index/">
+
+        <label for="dateOne">Primera fecha: </label>
+        <input type="date" name="dateOne" id="dateOne" />
+        
+
+        <label for="dateTwo">Segunda fecha: </label>
+        <input type="date" name="dateTwo" id="dateTwo" />
+
+        <input type="submit" />
+    </form>
+    
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateOfMovement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.itemID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mailUser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.movementTypeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.dateOfMovement)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.itemID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.mailUser)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.movementTypeID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.amount)
+                    </td>
+                </tr>
+        }
+}
+
+
+    </tbody>
+</table>

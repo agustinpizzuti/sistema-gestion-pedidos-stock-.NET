@@ -1,0 +1,56 @@
+﻿@model AppLogic.DTOs.UserDTO
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar usuario</h1>
+
+<h3>Esta seguro de querer borrar este usuario?</h3>
+<div>
+    <h4>User</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.mail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.mail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.surename)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.surename)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.isAdmin)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.isAdmin)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.isManager)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.isManager)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

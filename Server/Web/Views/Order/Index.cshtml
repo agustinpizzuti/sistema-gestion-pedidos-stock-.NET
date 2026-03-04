@@ -1,0 +1,114 @@
+﻿@model IEnumerable<AppLogic.DTOs.OrderDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.mensaje
+    </div>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div>
+    <form method="post" action="/Order/OrderByDate">
+        <label for="date">Fecha de creacion: </label>
+        <input type="type" name="date" id="date" />
+        <input type="submit" />
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.creationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.deliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.idClient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.client.socialReason)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.client.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.client.surename)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.finalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cancel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.delivered)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isExrpress)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.creationDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.deliveryDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.idClient)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.client.socialReason)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.client.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.client.surename)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.finalPrice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cancel)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.delivered)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.isExrpress)
+                    </td>
+                    <td>     
+                       @*  @Html.ActionLink("Edit", "Edit", new {  /*id=item.Id */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }) | *@     
+                    </td>
+                </tr>
+        }  
+}
+    </tbody>
+</table>

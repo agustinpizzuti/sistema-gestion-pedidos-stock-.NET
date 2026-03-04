@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\models\\summarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\models\\summarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\views\\stockmovement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\views\\stockmovement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\controllers\\stockmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\controllers\\stockmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\views\\stockmovement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\views\\stockmovement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\views\\stockmovement\\movements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\views\\stockmovement\\movements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\models\\stockmovementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\models\\stockmovementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|c:\\users\\usuario\\desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\client\\client\\models\\movementtypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB34D29F-FAEF-43BE-AA5E-657D60345C39}|Client\\Client.csproj|solutionrelative:client\\models\\movementtypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\StockMovement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Create.cshtml",
+              "RelativeToolTip": "Client\\Views\\StockMovement\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T22:35:34.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\StockMovement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\StockMovement\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T21:38:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movements.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Movements.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\StockMovement\\Movements.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\StockMovement\\Movements.cshtml",
+              "RelativeToolTip": "Client\\Views\\StockMovement\\Movements.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T17:38:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Client\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:40:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T20:03:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\ItemModel.cs",
+              "RelativeToolTip": "Client\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:41:49.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SummaryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\SummaryModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\SummaryModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\SummaryModel.cs",
+              "RelativeToolTip": "Client\\Models\\SummaryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:20:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\Summary\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Summary\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Views\\Summary\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Summary\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T20:27:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\StockMovementController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\StockMovementController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\StockMovementController.cs",
+              "RelativeToolTip": "Client\\Controllers\\StockMovementController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAwwI0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:22:04.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:35:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\SummaryController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\SummaryController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\SummaryController.cs",
+              "RelativeToolTip": "Client\\Controllers\\SummaryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:24:38.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:03:45.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockMovementModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\StockMovementModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\StockMovementModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\StockMovementModel.cs",
+              "RelativeToolTip": "Client\\Models\\StockMovementModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:40:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovementTypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\MovementTypeModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\MovementTypeModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\facultad\\entregas\\programacion 3\\segunda entrega ambos proyectos\\Client\\Client\\Models\\MovementTypeModel.cs",
+              "RelativeToolTip": "Client\\Models\\MovementTypeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:41:39.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

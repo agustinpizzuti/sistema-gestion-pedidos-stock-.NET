@@ -1,0 +1,195 @@
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.deps.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.csproj.Up2Date
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\refint\AppLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\AppLogic\obj\Debug\net8.0\ref\AppLogic.dll

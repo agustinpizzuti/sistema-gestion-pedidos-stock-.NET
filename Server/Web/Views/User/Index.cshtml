@@ -1,0 +1,76 @@
+﻿@model IEnumerable<AppLogic.DTOs.UserDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-success">
+        @ViewBag.mensaje
+    </div>
+}
+
+<h1>Listado de usuarios</h1>
+
+<p>
+    <a asp-action="Create">Crear un nuevo usuario</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.surename)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isAdmin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isManager)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.mail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.surename)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.isAdmin)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.isManager)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {  id=item.Id  }) |
+                        @* @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ })|  *@
+                        @Html.ActionLink("Delete", "Delete", new {  id=item.Id })
+                    </td>
+                </tr>
+            }       
+        }   
+    </tbody>
+</table>

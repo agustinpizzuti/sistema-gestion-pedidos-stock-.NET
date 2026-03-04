@@ -1,0 +1,83 @@
+﻿@model IEnumerable<AppLogic.DTOs.ClientDTO>
+
+@{
+    ViewData["Title"] = "FiltrarClientesPorMonto";
+}
+
+<h1>Clientes que hicieron pedidos con ese monto</h1>
+
+<p>
+    <a asp-action="Index">Listado general</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.socialReason)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.rut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.street)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.city)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.distance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.surename)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.socialReason)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.street)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.city)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.distance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.surename)
+            </td>
+           @*  <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td> *@
+        </tr>
+}
+    </tbody>
+</table>

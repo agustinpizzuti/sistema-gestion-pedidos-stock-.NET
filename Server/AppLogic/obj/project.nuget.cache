@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Y8c/VUmXMNLquXx/hQqbaRtNml27Yp4duKc3CKf42VAczxGJHECC976cutcCy9SY8yQWFyMcsh4sfnDHqtqVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Entregas\\P3\\segunda entrega ambos proyectos\\Server\\AppLogic\\AppLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

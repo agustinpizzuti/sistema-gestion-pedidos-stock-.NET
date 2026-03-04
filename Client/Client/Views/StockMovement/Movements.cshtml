@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Client.Models.StockMovementModel>
+
+@{
+    ViewData["Title"] = "Movements";
+}
+
+<h1>GetMovements</h1>
+
+<p>
+    <a asp-action="Index">Volver al listado</a>
+</p>
+
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+    <div class="alert alert-danger">
+        @ViewBag.message
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateOfMovement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.itemID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mailUser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.movementTypeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.dateOfMovement)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.itemID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.mailUser)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.movementTypeID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.amount)
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <p>No se encontraron movimientos para ese item</p>
+        }
+    </tbody>
+</table>
+
+<form method="post" action="/StockMovement/Next">
+    <input type="submit" value="Next">
+</form>
+<form method="post" action="/StockMovement/Previous">
+    <input type="submit" value="Previous">
+</form>

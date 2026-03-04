@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AppLogic.UseCaseInterface.MovementTypeCU
+{
+    public interface IDeleteMovementTypeCU
+    {
+        public void DeleteMovementType(int id);
+    }
+}
