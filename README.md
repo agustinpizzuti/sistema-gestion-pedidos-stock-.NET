@@ -1,6 +1,3 @@
-Para que tu `README.md` sea realmente completo y profesional, he añadido el detalle de los patrones de diseño que mencionaste (**Repository**, **Unit of Work**) y una lista exhaustiva de los requerimientos técnicos cumplidos según la letra de la entrega.
-
-Aquí tienes la versión final:
 
 ---
 
