@@ -1,58 +1,114 @@
-
----
-
 # Sistema de Gestión de Pedidos y Depósito
 
-[cite_start]Este sistema integral fue desarrollado para una empresa de papelería con el fin de optimizar la gestión de pedidos de clientes corporativos y el control de inventario en depósito[cite: 25, 26]. [cite_start]La aplicación aplica principios de **Clean Architecture** y **Domain Driven Design (DDD)** para garantizar la escalabilidad y mantenibilidad del código[cite: 174, 370].
+Este sistema fue desarrollado para una empresa de papelería con el objetivo de optimizar la gestión de pedidos de clientes corporativos y el control de inventario en depósito.
 
-## 🚀 Funcionalidades Implementadas
+La aplicación fue construida aplicando principios de **Clean Architecture** y **Domain-Driven Design (DDD)** para garantizar escalabilidad, mantenibilidad y separación de responsabilidades.
+
+---
+
+##  Funcionalidades Implementadas
 
 ### 1. Gestión Comercial (Módulo Administrador)
-* [cite_start]**Gestión de Usuarios:** CRUD completo de usuarios con contraseñas encriptadas y políticas de seguridad (mínimo 6 caracteres, mayúsculas, minúsculas, dígitos y puntuación)[cite: 40, 41, 74].
-* [cite_start]**Catálogo de Artículos:** Administración de insumos con validaciones de códigos de 13 dígitos, descripciones mínimas y control de stock[cite: 48, 93, 94].
-* [cite_start]**Gestión de Clientes:** Búsqueda avanzada de clientes por nombre o por volumen de facturación acumulada[cite: 85, 87, 88].
-* [cite_start]**Sistema de Pedidos:** * **Pedidos Comunes:** Cálculo de recargos del 5% si la distancia supera los 100km[cite: 63].
-    * [cite_start]**Pedidos Express:** Recargos del 10% general y 15% por entrega en el mismo día (plazo máximo 5 días)[cite: 53, 62].
-    * [cite_start]**Anulación:** Proceso de selección y anulación de pedidos no entregados con listado histórico[cite: 117, 120].
+
+#### Gestión de Usuarios
+- CRUD completo de usuarios
+- Contraseñas encriptadas
+- Políticas de seguridad:
+  - mínimo 6 caracteres
+  - una mayúscula
+  - una minúscula
+  - un dígito
+  - un símbolo especial
+
+#### Catálogo de Artículos
+- Administración de insumos
+- Validación de códigos de 13 dígitos
+- Descripciones mínimas
+- Control de stock
+
+#### Gestión de Clientes
+- Búsqueda por nombre
+- Búsqueda por volumen de facturación acumulada
+
+#### Sistema de Pedidos
+##### Pedidos Comunes
+- Recargo del 5% si la distancia supera los 100 km
+
+##### Pedidos Express
+- Recargo general del 10%
+- Recargo del 15% para entrega en el mismo día
+- Plazo máximo de entrega de 5 días
+
+##### Anulación de Pedidos
+- Selección de pedidos no entregados
+- Registro histórico de anulaciones
+
+---
 
 ### 2. Gestión de Depósito (Módulo Encargado)
-* [cite_start]**Movimientos de Stock:** Registro de ingresos y egresos de mercadería realizado exclusivamente por usuarios con rol "Encargado"[cite: 235, 254].
-* [cite_start]**Tipos de Movimiento:** CRUD de categorías (Compra, Venta, Devolución) con restricción de eliminación si tienen movimientos asociados[cite: 239, 257].
-* [cite_start]**Consultas Paginadas:** * Historial de movimientos por artículo y tipo, ordenados por fecha y cantidad[cite: 294, 295, 306].
-    * [cite_start]Reporte de artículos con actividad en rangos de fechas específicos[cite: 296, 306].
-    * [cite_start]Resumen anual de cantidades movidas agrupadas por tipo[cite: 297].
+
+#### Movimientos de Stock
+- Registro de ingresos
+- Registro de egresos
+- Acceso exclusivo para usuarios con rol **Encargado**
+
+#### Tipos de Movimiento
+- CRUD de categorías:
+  - Compra
+  - Venta
+  - Devolución
+- Restricción de eliminación si existen movimientos asociados
+
+#### Consultas Paginadas
+- Historial de movimientos por artículo y tipo
+- Reporte por rango de fechas
+- Resumen anual agrupado por tipo de movimiento
 
 ---
 
-## 🏗️ Arquitectura y Patrones
+##  Arquitectura y Patrones
 
-[cite_start]El proyecto se basa en una separación estricta de responsabilidades utilizando **Clean Architecture**[cite: 174, 370]:
+El proyecto se basa en una separación estricta de responsabilidades utilizando **Clean Architecture**.
 
-* [cite_start]**Domain & BusinessLogic:** Contiene las entidades, **Value Objects** para validaciones complejas y la lógica central[cite: 163, 233, 359].
-* [cite_start]**Data Access:** Implementación de persistencia mediante **Entity Framework Core 8**[cite: 140, 329]. Se utilizan los patrones **Repository** y **Unit of Work** para desacoplar la lógica de negocio de la base de datos.
-* [cite_start]**Web API:** Expone los servicios mediante endpoints REST protegidos por **JWT** y devuelve **Status Codes** adecuados[cite: 167, 259, 363].
-* **Client Web (HttpClient):** Aplicación MVC independiente que consume la API. [cite_start]Utiliza **ViewModels** y **DTOs** para la transferencia de datos[cite: 170, 230, 366].
+### Domain / BusinessLogic
+Contiene:
+- Entidades del dominio
+- Value Objects
+- Reglas de negocio
+- Validaciones complejas
+
+### Data Access
+Implementación de persistencia con **Entity Framework Core 8**.
+
+Patrones utilizados:
+- Repository
+
+### Web API
+- Endpoints REST
+- Autenticación mediante JWT
+- Respuestas con status codes apropiados
+- Documentación con Swagger
+
+### Cliente Web MVC
+- Aplicación independiente
+- Consumo de API mediante HttpClient
+- Uso de ViewModels y DTOs
 
 ---
 
-## 🔑 Credenciales de Prueba
+##  Credenciales de Prueba
 
-* **Usuario:** `usuario1@gmail.com`
-* **Contraseña:** `User1.`
-
----
-
-## 🛠️ Instrucciones de Ejecución
-
-Para que el ecosistema funcione correctamente, siga este orden:
-
-1.  [cite_start]**Levantar el Servidor (API):** Abra la solución de lógica de negocio, configure el `appsettings.json` y ejecute el proyecto para habilitar los servicios y Swagger[cite: 142, 331].
-2.  [cite_start]**Levantar el Cliente (Web):** Abra la solución del Cliente MVC, asegúrese de que apunte a la URL de la API y ejecute el proyecto para acceder a la interfaz de Encargado[cite: 230, 308].
+**Usuario:** `usuario1@gmail.com`  
+**Contraseña:** `User1.`
 
 ---
 
-## ⚙️ Stack Tecnológico
-* [cite_start]**.NET 8.0** / **C#**[cite: 172, 368].
-* [cite_start]**EF Core 8** / **LINQ** (Sintaxis de método)[cite: 169, 173, 365].
-* [cite_start]**SQL Server** / **JSON Web Tokens (JWT)**[cite: 261, 291].
-* [cite_start]**AutoMapper** para mapeo de DTOs[cite: 366].
+##  Instrucciones de Ejecución
+
+Para ejecutar correctamente el sistema se debe respetar el siguiente orden:
+
+### 1. Ejecutar la API
+Primero debe iniciarse el proyecto **Web API**, ya que la aplicación web consume sus servicios.
+
+### 2. Ejecutar la aplicación Web
+Una vez iniciada la API, debe ejecutarse el proyecto **Web MVC** para acceder a la interfaz del sistema.
