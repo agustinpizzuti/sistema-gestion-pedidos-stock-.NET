@@ -112,3 +112,33 @@ Primero debe iniciarse el proyecto **Web API**, ya que la aplicación web consum
 
 ### 2. Ejecutar la aplicación Web
 Una vez iniciada la API, debe ejecutarse el proyecto **Web MVC** para acceder a la interfaz del sistema.
+
+## 📷 Capturas del sistema
+
+### Listado de Clientes
+![Clientes](screenshots/Client/indexClients.png)
+
+### Listado de Usuarios
+![Usuarios](screenshots/User/IndexUsers.png)
+
+### Listado de Órdenes
+![Ordenes](screenshots/Order/IndexOrder.png)
+
+### Listado de Items
+![Items](screenshots/Item/IndexItems.png)
+
+### Alta de Item
+![Agregar Item](screenshots/Item/CreateItem.png)
+
+### Alta de Orden
+![Agregar Orden](screenshots/Order/CreateOrder.png)
+
+### Alta de Usuario
+![Agregar Usuario](screenshots/User/CresteUser.png)
+
+### Edición de Usuario
+![Editar Usuario](screenshots/User/EditUser.png)
+
+### Eliminación de Usuario
+![Eliminar Usuario](screenshots/User/DeleteUser.png)
+
