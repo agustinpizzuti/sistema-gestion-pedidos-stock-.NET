@@ -4,7 +4,7 @@ Aquí tienes la versión final:
 
 ---
 
-# Sistema de Gestión de Pedidos y Depósito (ORT - Programación 3)
+# Sistema de Gestión de Pedidos y Depósito
 
 [cite_start]Este sistema integral fue desarrollado para una empresa de papelería con el fin de optimizar la gestión de pedidos de clientes corporativos y el control de inventario en depósito[cite: 25, 26]. [cite_start]La aplicación aplica principios de **Clean Architecture** y **Domain Driven Design (DDD)** para garantizar la escalabilidad y mantenibilidad del código[cite: 174, 370].
 
