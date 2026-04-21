@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Server",
+    "\\Server\\WebApi",
+    "\\Server\\WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\Server\\WebApi\\Controllers\\StockMovementsController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<AppLogic.DTOs.ClientDTO>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="page-header">
+    <h1>Listado de clientes</h1>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-success mb-4">
+        @ViewBag.mensaje
+    </div>
+}
+
+<div class="card mb-4">
+    <div class="card-header">Filtros</div>
+    <div class="card-body">
+        <div class="row g-3">
+
+            <div class="col-md-4">
+                <form method="post" action="/Client/FiltrarClientesNombre">
+                    <label for="palabra" class="form-label">Nombre</label>
+                    <div class="d-flex gap-2">
+                        <input type="text" name="palabra" id="palabra" class="form-control" />
+                        <button type="submit" class="btn btn-primary">Buscar</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-4">
+                <form method="post" action="/Client/FiltrarClientesApellido">
+                    <label for="palAp" class="form-label">Apellido</label>
+                    <div class="d-flex gap-2">
+                        <input type="text" name="palAp" id="palAp" class="form-control" />
+                        <button type="submit" class="btn btn-primary">Buscar</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-4">
+                <form method="post" action="/Client/FiltrarClientesPorMonto">
+                    <label for="monto" class="form-label">Monto mínimo</label>
+                    <div class="d-flex gap-2">
+                        <input type="number" name="monto" id="monto" class="form-control" />
+                        <button type="submit" class="btn btn-primary">Buscar</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Razón social</th>
+                    <th>RUT</th>
+                    <th>Calle</th>
+                    <th>Número</th>
+                    <th>Ciudad</th>
+                    <th>Distancia</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.socialReason</td>
+                        <td>@item.rut</td>
+                        <td>@item.street</td>
+                        <td>@item.number</td>
+                        <td>@item.city</td>
+                        <td>@item.distance</td>
+                        <td>@item.name</td>
+                        <td>@item.surename</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay clientes para mostrar.</p>
+    </div>
+}

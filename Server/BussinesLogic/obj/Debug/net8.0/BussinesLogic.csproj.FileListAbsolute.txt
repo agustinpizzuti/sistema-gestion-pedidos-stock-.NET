@@ -1,0 +1,224 @@
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\BussinesLogicV15(ERRORDTOUsuario)\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.deps.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.runtimeconfig.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\refint\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\BussinesLogic.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\BussinesLogic\obj\Debug\net8.0\ref\BussinesLogic.dll

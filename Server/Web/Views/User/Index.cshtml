@@ -1,0 +1,58 @@
+﻿@model IEnumerable<AppLogic.DTOs.UserDTO>
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<div class="page-header">
+    <h1>Listado de usuarios</h1>
+    <a asp-action="Create" class="btn btn-primary">+ Crear usuario</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-success mb-4">@ViewBag.mensaje</div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Email</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Administrador</th>
+                    <th>Encargado</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.mail</td>
+                        <td>@item.name</td>
+                        <td>@item.surename</td>
+                        <td>@(item.isAdmin ? "Sí" : "No")</td>
+                        <td>@(item.isManager ? "Sí" : "No")</td>
+                        <td>
+                            <div class="d-flex gap-2">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-secondary">Editar</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Eliminar</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay usuarios registrados.</p>
+    </div>
+}

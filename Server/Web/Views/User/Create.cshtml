@@ -1,0 +1,69 @@
+﻿@model AppLogic.DTOs.UserDTO
+@{
+    ViewData["Title"] = "Crear usuario";
+}
+
+<div class="page-header">
+    <h1>Crear usuario</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.mensaje</div>
+}
+
+<div class="card" style="max-width: 520px;">
+    <div class="card-header">Datos del usuario</div>
+    <div class="card-body">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="mail" class="form-label">Email</label>
+                <input asp-for="mail" class="form-control" placeholder="usuario@email.com" />
+                <span asp-validation-for="mail" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="name" class="form-label">Nombre</label>
+                <input asp-for="name" name="name" class="form-control" placeholder="Nombre" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="surename" class="form-label">Apellido</label>
+                <input asp-for="surename" name="surename" class="form-control" placeholder="Apellido" />
+                <span asp-validation-for="surename" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="pass" class="form-label">Contraseña</label>
+                <input type="password" asp-for="pass" class="form-control" placeholder="••••••••" />
+                <span asp-validation-for="pass" class="text-danger"></span>
+            </div>
+
+            <div class="mb-2">
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="isAdmin" />
+                    <label class="form-check-label" asp-for="isAdmin">Administrador</label>
+                </div>
+            </div>
+
+            <div class="mb-4">
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="isManager" />
+                    <label class="form-check-label" asp-for="isManager">Encargado de depósito</label>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Crear usuario</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AppLogic.DTOs.ClientDTO>
+
+@{
+    ViewData["Title"] = "Clientes por monto";
+}
+
+<div class="page-header">
+    <h1>Clientes que hicieron pedidos con ese monto</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Listado general</a>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Razón social</th>
+                    <th>RUT</th>
+                    <th>Calle</th>
+                    <th>Número</th>
+                    <th>Ciudad</th>
+                    <th>Distancia</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.socialReason</td>
+                        <td>@item.rut</td>
+                        <td>@item.street</td>
+                        <td>@item.number</td>
+                        <td>@item.city</td>
+                        <td>@item.distance</td>
+                        <td>@item.name</td>
+                        <td>@item.surename</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No se encontraron clientes para ese monto.</p>
+    </div>
+}

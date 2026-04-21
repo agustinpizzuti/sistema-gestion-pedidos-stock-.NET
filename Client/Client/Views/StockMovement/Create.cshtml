@@ -1,0 +1,65 @@
+﻿@model Client.Models.StockMovementModel
+@{
+    ViewData["Title"] = "Nuevo Movimiento";
+}
+
+<div class="page-header">
+    <h1>Nuevo Movimiento de Stock</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.message</div>
+}
+
+<div class="card" style="max-width: 560px;">
+    <div class="card-header">Datos del movimiento</div>
+    <div class="card-body">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label class="form-label">Artículo</label>
+                <select name="itemID" class="form-select">
+                    <option value="" disabled selected>Elegí un artículo</option>
+                    @foreach (SelectListItem c in ViewBag.items)
+                    {
+                        <option value="@c.Value">@c.Text</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="mailUser" class="form-label">Email del usuario</label>
+                <input asp-for="mailUser" class="form-control" placeholder="usuario@email.com" />
+                <span asp-validation-for="mailUser" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Tipo de movimiento</label>
+                <select name="movementTypeID" class="form-select">
+                    <option value="" disabled selected>Elegí el tipo</option>
+                    @foreach (SelectListItem c in ViewBag.movementType)
+                    {
+                        <option value="@c.Value">@c.Text</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label asp-for="amount" class="form-label">Cantidad</label>
+                <input asp-for="amount" class="form-control" placeholder="Ej: 10" />
+                <span asp-validation-for="amount" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Registrar movimiento</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

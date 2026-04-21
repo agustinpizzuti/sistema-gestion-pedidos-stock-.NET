@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Client.Models.ItemModel>
+@{
+    ViewData["Title"] = "Artículos por fecha";
+}
+
+<div class="page-header">
+    <h1>Artículos por fecha</h1>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Descripción</th>
+                    <th>Código</th>
+                    <th>Precio</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.name</td>
+                        <td>@item.description</td>
+                        <td>@item.code</td>
+                        <td>@item.price</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex gap-2 mt-3">
+        <form method="post" action="/Item/Previous">
+            <button type="submit" class="btn btn-secondary">← Anterior</button>
+        </form>
+        <form method="post" action="/Item/Next">
+            <button type="submit" class="btn btn-primary">Siguiente →</button>
+        </form>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay artículos para mostrar en ese rango de fechas.</p>
+        <a asp-controller="StockMovement" asp-action="Index" class="btn btn-secondary mt-2">← Volver al inicio</a>
+    </div>
+}

@@ -1,0 +1,115 @@
+﻿@using AppLogic.DTOs
+@model AppLogic.DTOs.OrderDTO
+@{
+    ViewData["Title"] = "Crear pedido";
+}
+
+<div class="page-header">
+    <h1>Crear pedido</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.mensaje</div>
+}
+
+<div class="row g-4 align-items-start">
+
+    <!-- Agregar artículo -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Agregar artículo</div>
+            <div class="card-body">
+                <form asp-action="AddLine">
+                    <div class="mb-3">
+                        <label class="form-label">Artículo</label>
+                        <select name="idItem" class="form-select">
+                            <option value="" disabled selected>Elegí un artículo</option>
+                            @foreach (SelectListItem c in ViewBag.items)
+                            {
+                                <option value="@c.Value">@c.Text</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="amount" class="form-label">Cantidad</label>
+                        <input type="number" id="amount" name="amount" class="form-control" placeholder="Ej: 5" min="1" />
+                    </div>
+
+                    <button type="submit" class="btn btn-outline-primary w-100">+ Agregar artículo</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Datos del pedido -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Datos del pedido</div>
+            <div class="card-body">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="deliveryDate" class="form-label">Fecha de entrega</label>
+                        <input asp-for="deliveryDate" class="form-control" />
+                        <span asp-validation-for="deliveryDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label class="form-label">Cliente</label>
+                        <select name="idClient" class="form-select">
+                            <option value="" disabled selected>Elegí el cliente</option>
+                            @foreach (SelectListItem c in ViewBag.clients)
+                            {
+                                <option value="@c.Value">@c.Text</option>
+                            }
+                        </select>
+                        <span asp-validation-for="idClient" class="text-danger"></span>
+                    </div>
+
+                    @if (ViewBag.lines != null && ViewBag.lines.Count > 0)
+                    {
+                        <div class="mb-4">
+                            <label class="form-label">Artículos agregados</label>
+                            <div class="table-responsive">
+                                <table class="table" style="font-size:0.875rem;">
+                                    <thead>
+                                        <tr>
+                                            <th>Artículo</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (LineDTO line in ViewBag.lines)
+                                        {
+                                            <tr>
+                                                <td>@line.item.name</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-info mb-4" style="font-size:0.875rem;">
+                            Todavía no agregaste artículos al pedido.
+                        </div>
+                    }
+
+                    <button type="submit" class="btn btn-primary w-100">Crear pedido</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

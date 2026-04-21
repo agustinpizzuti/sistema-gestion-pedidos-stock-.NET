@@ -1,0 +1,924 @@
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Facu tercer semestre\P3 (2024)\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV27\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Daniel\Proyecto\BussinesLogicV28\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Entrega P3\UltimaVersion\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\danid\OneDrive\Escritorio\proyecto\BussinesLogicV39\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Entrega_P3_Daniel_Detomasi_297938_Agustin_Pizzuti_280597\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\Ultima version del codigo\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\segunda entrega ambos proyectos\BussinesLogic\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.xml
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.xml
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Usuario\Desktop\facultad\entregas\programacion 3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\WebApi.xml
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\AppLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\BussinesLogic.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\LogicDataAccess.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\AppLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\BussinesLogic.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\bin\Debug\net8.0\LogicDataAccess.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.xml
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Entregas\P3\segunda entrega ambos proyectos\Server\WebApi\obj\Debug\net8.0\ref\WebApi.dll

@@ -1,0 +1,76 @@
+﻿@model IEnumerable<AppLogic.DTOs.OrderDTO>
+@{
+    ViewData["Title"] = "Pedidos";
+}
+
+<div class="page-header">
+    <h1>Listado de pedidos</h1>
+    <a asp-action="Create" class="btn btn-primary">+ Nuevo pedido</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.mensaje</div>
+}
+
+<div class="card mb-4" style="max-width: 420px;">
+    <div class="card-header">Filtrar por fecha de creación</div>
+    <div class="card-body">
+        <form method="post" action="/Order/OrderByDate">
+            <div class="row g-2 align-items-end">
+                <div class="col">
+                    <label for="date" class="form-label">Fecha</label>
+                    <input type="date" name="date" id="date" class="form-control" />
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-primary">Buscar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Fecha creación</th>
+                    <th>Fecha entrega</th>
+                    <th>Razón social</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Total</th>
+                    <th>Anulado</th>
+                    <th>Entregado</th>
+                    <th>Express</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.creationDate.ToString("dd/MM/yyyy")</td>
+                        <td>@item.deliveryDate.ToString("dd/MM/yyyy")</td>
+                        <td>@item.client?.socialReason</td>
+                        <td>@item.client?.name</td>
+                        <td>@item.client?.surename</td>
+                        <td>$@item.finalPrice.ToString("N2")</td>
+                        <td>@(item.cancel ? "Sí" : "No")</td>
+                        <td>@(item.delivered ? "Sí" : "No")</td>
+                        <td>@(item.isExrpress ? "Sí" : "No")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay pedidos para mostrar.</p>
+    </div>
+}

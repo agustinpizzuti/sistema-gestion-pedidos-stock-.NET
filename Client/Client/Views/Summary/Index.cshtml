@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Client.Models.SummaryModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.year) 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.amount) 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.movements)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var summary in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => summary.year)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => summary.amount)
+                </td>
+                <td>
+                    <table class="table">
+                        <thead>
+                            <tr>          
+                                <th>
+                                    Tipo de movimiento
+                                </th>
+                                <th>
+                                    Cantidad
+                                </th>
+                            </tr>
+                        <tbody>
+                            @foreach (var movement in summary.movements)
+                            {
+                                <tr>
+                                    <td>@movement.typeName</td>
+                                    <td>@movement.amount</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

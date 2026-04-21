@@ -1,0 +1,43 @@
+﻿@model AppLogic.DTOs.UserDTO
+@{
+    ViewData["Title"] = "Eliminar usuario";
+}
+
+<div class="page-header">
+    <h1>Eliminar usuario</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+<div class="card" style="max-width: 520px;">
+    <div class="card-header">Datos del usuario</div>
+    <div class="card-body">
+        <dl class="row mb-0">
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">ID</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.Id)</dd>
+
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">Email</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.mail)</dd>
+
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">Nombre</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.name)</dd>
+
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">Apellido</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.surename)</dd>
+
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">Administrador</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.isAdmin)</dd>
+
+            <dt class="col-sm-4 text-muted" style="font-size:0.85rem;">Encargado</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.isManager)</dd>
+        </dl>
+    </div>
+    <div class="card-body" style="border-top: 1px solid var(--border); padding-top: 1rem;">
+        <p class="text-danger mb-3" style="font-size:0.9rem;">
+            ⚠️ Esta acción no se puede deshacer. ¿Estás seguro de querer eliminar este usuario?
+        </p>
+        <form asp-action="Delete" class="d-flex gap-2">
+            <button type="submit" class="btn btn-danger">Eliminar usuario</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

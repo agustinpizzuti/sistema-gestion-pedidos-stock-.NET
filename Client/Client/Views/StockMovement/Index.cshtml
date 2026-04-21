@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Client.Models.StockMovementModel>
+@{
+    ViewData["Title"] = "Movimientos de Stock";
+}
+
+<div class="page-header">
+    <h1>Movimientos de Stock</h1>
+    <a asp-action="Create" class="btn btn-primary">+ Nuevo movimiento</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.message</div>
+}
+
+<div class="card mb-4">
+    <div class="card-header">Filtrar por artículo y tipo</div>
+    <div class="card-body">
+        <form method="post" action="StockMovement/Movements/">
+            <div class="row g-3 align-items-end">
+                <div class="col-md-5">
+                    <label class="form-label">Artículo</label>
+                    <select name="idItem" class="form-select">
+                        <option value="" disabled selected>Elegí un artículo</option>
+                        @foreach (SelectListItem c in ViewBag.items)
+                        {
+                            <option value="@c.Value">@c.Text</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-md-5">
+                    <label class="form-label">Tipo de movimiento</label>
+                    <select name="type" class="form-select">
+                        <option value="" disabled selected>Elegí el tipo</option>
+                        @foreach (SelectListItem c in ViewBag.movementType)
+                        {
+                            <option value="@c.Value">@c.Text</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary w-100">Buscar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">Filtrar por rango de fechas</div>
+    <div class="card-body">
+        <form method="post" action="Item/Index/">
+            <div class="row g-3 align-items-end">
+                <div class="col-md-4">
+                    <label class="form-label" for="dateOne">Primera fecha</label>
+                    <input type="date" name="dateOne" id="dateOne" class="form-control" />
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label" for="dateTwo">Segunda fecha</label>
+                    <input type="date" name="dateTwo" id="dateTwo" class="form-control" />
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary w-100">Buscar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    <th>Artículo</th>
+                    <th>Usuario</th>
+                    <th>Tipo</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.dateOfMovement.ToString("dd/MM/yyyy")</td>
+                        <td>@item.itemID</td>
+                        <td>@item.mailUser</td>
+                        <td>@item.movementTypeID</td>
+                        <td>@item.amount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay movimientos para mostrar.</p>
+    </div>
+}

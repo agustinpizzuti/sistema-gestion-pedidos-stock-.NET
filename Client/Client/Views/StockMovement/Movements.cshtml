@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Client.Models.StockMovementModel>
+@{
+    ViewData["Title"] = "Movimientos por tipo";
+}
+
+<div class="page-header">
+    <h1>Movimientos por tipo</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.message</div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    <th>Artículo</th>
+                    <th>Usuario</th>
+                    <th>Tipo</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.dateOfMovement.ToString("dd/MM/yyyy")</td>
+                        <td>@item.itemID</td>
+                        <td>@item.mailUser</td>
+                        <td>@item.movementTypeID</td>
+                        <td>@item.amount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex gap-2 mt-3">
+        <form method="post" action="/StockMovement/Previous">
+            <button type="submit" class="btn btn-secondary">← Anterior</button>
+        </form>
+        <form method="post" action="/StockMovement/Next">
+            <button type="submit" class="btn btn-primary">Siguiente →</button>
+        </form>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No se encontraron movimientos para ese artículo y tipo.</p>
+    </div>
+}

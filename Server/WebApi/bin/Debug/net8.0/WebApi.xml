@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.ItemsController.Get">
+            <summary>
+            Listado de todos los items
+            </summary>
+            <returns>Retorna todos los items ordenados por nombre</returns>
+        </member>
+        <member name="M:WebApi.Controllers.ItemsController.GetByID(System.Int32)">
+            <summary>
+            Item por id
+            </summary>
+            <param name="id">id del item</param>
+            <returns>Retorna un item dado un id</returns>
+        </member>
+        <member name="M:WebApi.Controllers.ItemsController.GetItems(System.DateTime,System.DateTime,System.Int32)">
+            <summary>
+            Listado de items que fueron movidos entre dos fechas
+            </summary>
+            <param name="dateOne">primer fecha</param>
+            <param name="dateTwo">segunda fecha</param>
+            <param name="pag">pagina a la que se le hace referencia</param>
+            <returns>
+            Retorna un codigo 200 y lista los items que fueron movidos entre las dos fechas 
+            </returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovementTypesController.Get">
+            <summary>
+            Muestra todos los tipos de movimientos 
+            </summary>
+            <returns>Lista de todos los tipos de movimiento</returns>      
+        </member>
+        <member name="M:WebApi.Controllers.MovementTypesController.Create(AppLogic.DTOs.MovementTypeDTO)">
+            <summary>
+            Opcion para crear un nuevo tipo de movimiento
+            </summary>
+            <param name="movementTypeDTO">tipo de movimiento</param>
+            <returns>Agrega el nuevo tipo de movimiento a la base de datos</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovementTypesController.Delete(System.Int32)">
+            <summary>
+            Elimina el tipo de movimiento
+            </summary>
+            <param name="Id">id del tipo de movimiento</param>
+            <returns>Retorna un codigo 200 y elimina el tipo de movimiento</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovementTypesController.Update(System.Int32,AppLogic.DTOs.MovementTypeDTO)">
+            <summary>
+            Actualiza un tipo de movimiento
+            </summary>
+            <param name="movementTypeDTO">tipo de movimiento</param>
+            <returns>Retorna un codigo 200 y actualiza el tipo de movimiento</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MovementTypesController.GetByID(System.Int32)">
+            <summary>
+            Recibe un id de un tipo de movimiento y lo retorna
+            </summary>
+            <param name="id">id del tipo de movimiento</param>
+            <returns>Retorna el tipo de movimiento</returns>
+        </member>
+        <member name="M:WebApi.Controllers.OrdersController.Get">
+            <summary>
+            Listado de ordenes canceladas
+            </summary>
+            <returns>Retorna todas las ordenes canceladas y ordenadas por fecha de creacion descendente</returns>
+        </member>
+        <member name="M:WebApi.Controllers.StockMovementsController.Get">
+            <summary>
+            Listado de todos los movimientos de stock
+            </summary>
+            <returns>Retorna todos los movimientos de stock</returns>
+        </member>
+        <member name="M:WebApi.Controllers.StockMovementsController.Create(AppLogic.DTOs.StockMovementDTO)">
+            <summary>
+            Creacion de un movimiento de stock
+            </summary>
+            <param name="stockMovementDTO">movimiento de stock</param>
+            <returns>Se devuelve un codigo 201 si se creo el movimiento correctamente</returns>
+        </member>
+        <member name="M:WebApi.Controllers.StockMovementsController.GetMovements(System.Int32,System.String,System.Int32)">
+            <summary>
+            Listado de los movimientos de stock por item y tipo de movimiento
+            </summary>
+            <param name="idItem">id del item</param>
+            <param name="type">nombre del tipo de movimiento</param>
+            <param name="pag">pagina a la que se hace referencia</param>
+            <returns>Si retorna un codigo 200, lista los movimientos de ese item y ese tipo de movimiento</returns>
+        </member>
+        <member name="M:WebApi.Controllers.SummaryController.GetSummary">
+            <summary>
+            Lista los movimientos de stock agrupandolos por año y por tipo de movimiento
+            </summary>
+            <returns>Lista los movimientos</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AppLogic.DTOs.ItemDTO>
+
+@{
+    ViewData["Title"] = "Items";
+}
+
+<div class="page-header">
+    <h1>Listado de Items</h1>
+    <a asp-action="Create" class="btn btn-primary">+ Nuevo item</a>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Descripción</th>
+                    <th>Código</th>
+                    <th>Precio</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.name</td>
+                        <td>@item.description</td>
+                        <td>@item.code</td>
+                        <td>$@item.price</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="empty-state">
+        <p>No hay items para mostrar.</p>
+    </div>
+}

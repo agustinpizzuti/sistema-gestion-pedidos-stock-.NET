@@ -1,0 +1,63 @@
+﻿@model AppLogic.DTOs.UserDTO
+@{
+    ViewData["Title"] = "Editar usuario";
+}
+
+<div class="page-header">
+    <h1>Editar usuario</h1>
+    <a asp-action="Index" class="btn btn-secondary">← Volver</a>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger mb-4">@ViewBag.mensaje</div>
+}
+
+<div class="card" style="max-width: 520px;">
+    <div class="card-header">Datos del usuario</div>
+    <div class="card-body">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="Id" class="form-label">ID</label>
+                <input asp-for="Id" class="form-control" readonly style="background: var(--surface-2); color: var(--text-muted);" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="mail" class="form-label">Email</label>
+                <input asp-for="mail" class="form-control" readonly style="background: var(--surface-2); color: var(--text-muted);" />
+                <span class="form-text">El email no puede modificarse.</span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="name" class="form-label">Nombre</label>
+                <input asp-for="name" class="form-control" placeholder="Nombre" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="surename" class="form-label">Apellido</label>
+                <input asp-for="surename" class="form-control" placeholder="Apellido" />
+                <span asp-validation-for="surename" class="text-danger"></span>
+            </div>
+
+            <div class="mb-4">
+                <label asp-for="pass" class="form-label">Contraseña</label>
+                <input type="password" asp-for="pass" class="form-control" placeholder="••••••••" />
+                <span asp-validation-for="pass" class="text-danger"></span>
+            </div>
+
+            <input asp-for="isAdmin" hidden />
+            <input asp-for="isManager" hidden />
+
+            <button type="submit" class="btn btn-primary w-100">Guardar cambios</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
